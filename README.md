@@ -1,1 +1,3 @@
-# relational-database-design-exam
+# Relational Database Design — Exam Prep
+
+Ответы на экзаменационные билеты по курсу «Проектирование реляционных баз данных» (бакалавриат).
